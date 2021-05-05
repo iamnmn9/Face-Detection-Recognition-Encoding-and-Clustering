@@ -1,0 +1,21 @@
+Hi Instructor,
+For the first task if somehow code fails to operate kindle increment the parameters of haarcascade_frontal_default.
+I have checked my code with plenty of images but if somehow images are too complex to detect please change the parameter.
+
+For the task 2 if somehow you are getting error of reshape please change the parameter of haarcascade_frontal_default 
+and if you are getting wrong cluster please increase the rseed value while passing to to def clustering. I have checked
+my code with many datasets but still if images are too complex please change the rseed values.
+
+Summary:
+Task1: facecascade parameter change (+=0.1,+-1) 
+
+Task2: facecascade parameter change (+=0.1,+-1) 
+and
+clustering(X,kk,kk+n)
+where n= 4,5,6.......
+
+
+Thanks,
+for any query contact
+namanpun@buffalo.edu
++716-9396218 

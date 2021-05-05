@@ -1,0 +1,16 @@
+Requirements to run project3:
+
+-Python 3.6 or above (Best with python 3.6)
+-OpenCv latest
+-latest sklearn
+-latest scipy
+
+necessary libraries:
+import glob
+import numpy as np
+import json
+import os
+import sys
+import cv2
+import face_recognition
+from sklearn.metrics import pairwise_distances_argmin
